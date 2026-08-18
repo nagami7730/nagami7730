@@ -1,6 +1,8 @@
 <div align="center">
   
-  ### 🥷 Digital Thief
+  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="48" alt="Thief"/>
+  
+  ### Digital Thief
   
   <img src="https://img.shields.io/badge/Currently%20Learning-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
   
