@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### 🏴‍☠️ Digital Thief
+  ### 🥷 Digital Thief
   
   <img src="https://img.shields.io/badge/Currently%20Learning-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
   
