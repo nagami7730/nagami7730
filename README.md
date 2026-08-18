@@ -1,7 +1,5 @@
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/nagami7730/nagami7730/main/thief.png" width="70" alt="Digital Thief"/>
-  
   ### Digital Thief
   
   <img src="https://img.shields.io/badge/Currently%20Learning-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
@@ -11,7 +9,7 @@
 
 ---
 
-### 🧠 My Skill Set
+### My Skill Set
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,ts,nodejs,cs,dotnet,redis,mongodb,mysql,docker,linux,git" />
