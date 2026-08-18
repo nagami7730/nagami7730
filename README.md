@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="55" alt="Robber"/>
+  <img src="https://raw.githubusercontent.com/nagami7730/nagami7730/main/thief.png" width="70" alt="Digital Thief"/>
   
   ### Digital Thief
   
